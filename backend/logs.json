@@ -1,0 +1,193 @@
+[{
+  "_id": {
+    "$oid": "6558e28d2142b0b8d0f73f72"
+  },
+  "level": "error",
+  "message": "Failed to connect to DB",
+  "resourceId": "server-1234",
+  "timestamp": {
+    "$date": "2023-11-15T08:35:02.123Z"
+  },
+  "traceId": "abc-xyz-123",
+  "spanId": "span-456",
+  "commit": "5e5342f",
+  "metadata": {
+    "parentResourceId": "server-1987"
+  }
+},{
+  "_id": {
+    "$oid": "6558e2a02142b0b8d0f73f73"
+  },
+  "level": "error",
+  "message": "Failed to connect to DB",
+  "resourceId": "server-1234",
+  "timestamp": {
+    "$date": "2023-11-15T12:35:02.123Z"
+  },
+  "traceId": "abc-xyz-124",
+  "spanId": "span-457",
+  "commit": "5e5342f",
+  "metadata": {
+    "parentResourceId": "server-0987"
+  }
+},{
+  "_id": {
+    "$oid": "6558e2ab2142b0b8d0f73f74"
+  },
+  "level": "error",
+  "message": "Failed to connect to DB",
+  "resourceId": "server-1234",
+  "timestamp": {
+    "$date": "2023-11-15T16:35:02.123Z"
+  },
+  "traceId": "abc-xyz-125",
+  "spanId": "span-458",
+  "commit": "5e5342f",
+  "metadata": {
+    "parentResourceId": "server-0987"
+  }
+},{
+  "_id": {
+    "$oid": "6558e2bb2142b0b8d0f73f75"
+  },
+  "level": "error",
+  "message": "Failed to connect to DB",
+  "resourceId": "server-1234",
+  "timestamp": {
+    "$date": "2023-11-18T12:40:02.123Z"
+  },
+  "traceId": "abc-xyz-126",
+  "spanId": "span-459",
+  "commit": "5e5342f",
+  "metadata": {
+    "parentResourceId": "server-0987"
+  }
+},{
+  "_id": {
+    "$oid": "6558e2cd2142b0b8d0f73f76"
+  },
+  "level": "error",
+  "message": "Failed to connect to DB",
+  "resourceId": "server-1234",
+  "timestamp": {
+    "$date": "2023-11-16T16:48:02.123Z"
+  },
+  "traceId": "abc-xyz-127",
+  "spanId": "span-460",
+  "commit": "5e5342f",
+  "metadata": {
+    "parentResourceId": "server-0987"
+  }
+},{
+  "_id": {
+    "$oid": "6558e2dd2142b0b8d0f73f77"
+  },
+  "level": "error",
+  "message": "Failed to connect to DB",
+  "resourceId": "server-1234",
+  "timestamp": {
+    "$date": "2023-11-16T20:12:02.123Z"
+  },
+  "traceId": "abc-xyz-128",
+  "spanId": "span-461",
+  "commit": "5e5342f",
+  "metadata": {
+    "parentResourceId": "server-0987"
+  }
+},{
+  "_id": {
+    "$oid": "6558e2e72142b0b8d0f73f78"
+  },
+  "level": "error",
+  "message": "Failed to connect to DB",
+  "resourceId": "server-1234",
+  "timestamp": {
+    "$date": "2023-11-17T10:35:02.123Z"
+  },
+  "traceId": "abc-xyz-129",
+  "spanId": "span-462",
+  "commit": "5e5342f",
+  "metadata": {
+    "parentResourceId": "server-0987"
+  }
+},{
+  "_id": {
+    "$oid": "6558e3892142b0b8d0f73f79"
+  },
+  "level": "error",
+  "message": "Failed to connect to Kafka",
+  "resourceId": "server-1234",
+  "timestamp": {
+    "$date": "2023-11-18T12:10:02.123Z"
+  },
+  "traceId": "abc-xyz-130",
+  "spanId": "span-463",
+  "commit": "5e5342f",
+  "metadata": {
+    "parentResourceId": "server-0987"
+  }
+},{
+  "_id": {
+    "$oid": "6558e6c2c5bc1a9497517ff8"
+  },
+  "level": "info",
+  "message": "Data Inserted Successfully",
+  "resourceId": "server-1234",
+  "timestamp": {
+    "$date": "2023-11-18T13:35:02.123Z"
+  },
+  "traceId": "abc-xyz-131",
+  "spanId": "span-464",
+  "commit": "5e5342f",
+  "metadata": {
+    "parentResourceId": "server-0987"
+  }
+},{
+  "_id": {
+    "$oid": "6558e7398f12458c5faa2046"
+  },
+  "level": "info",
+  "message": "Data Inserted Successfully",
+  "resourceId": "server-1234",
+  "traceId": "abc-xyz-132",
+  "spanId": "span-465",
+  "commit": "5e5342f",
+  "metadata": {
+    "parentResourceId": "server-0987"
+  },
+  "timestamp": {
+    "$date": "2023-11-18T16:32:57.073Z"
+  }
+},{
+  "_id": {
+    "$oid": "6558e7b6a1e149b0f552fde0"
+  },
+  "level": "info",
+  "message": "Data Uploaded Successfully",
+  "resourceId": "server-1234",
+  "traceId": "abc-xyz-133",
+  "spanId": "span-466",
+  "commit": "5e5342f",
+  "metadata": {
+    "parentResourceId": "server-0987"
+  },
+  "timestamp": {
+    "$date": "2023-11-18T16:35:02.123Z"
+  }
+},{
+  "_id": {
+    "$oid": "6558ef9a3ea3a4df450787e2"
+  },
+  "level": "info",
+  "message": "Query Executed",
+  "resourceId": "server-1234",
+  "traceId": "abc-xyz-134",
+  "timestamp": {
+    "$date": "2023-11-18T17:08:42.181Z"
+  },
+  "spanId": "span-467",
+  "commit": "5e5342f",
+  "metadata": {
+    "parentResourceId": "server-0987"
+  }
+}]
